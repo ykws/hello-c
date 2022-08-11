@@ -14,5 +14,10 @@ Thread model: posix
 InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
 ```
 
+```
+% clang hello.c
+% ./a.out
+```
+
 https://clang.llvm.org/get_started.html
 
